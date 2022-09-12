@@ -1,0 +1,8 @@
+//Kyle Eldridge
+//I don't know what to write in this, so I wrote this sentence.
+public class ClassName{
+	public static void main(String[] args){
+		System.out.println("Something");
+		System.out.println("Something else");
+	}
+}
