@@ -1,1 +1,3 @@
 we should learn git commands
+
+i swear i'm okay at programming i just forget about the syntax
